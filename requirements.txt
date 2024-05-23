@@ -1,0 +1,6 @@
+flask
+flask_restful
+sqlalchemy
+sqlalchemy.orm
+gunicorn>=20.1.0
+pymysql
