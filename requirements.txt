@@ -1,7 +1,6 @@
 flask
 flask_restful
 mysql-connector-python
-Flask mysql-connector-python
 sqlalchemy
 sqlalchemy.orm
 gunicorn>=20.1.0
