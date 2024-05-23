@@ -6,6 +6,7 @@ app = Flask(__name__)
 # Configuración de la base de datos
 db = mysql.connector.connect(
     host="roundhouse.proxy.rlwy.net",
+    port=41164,
     user="root",
     password="zzRogpFIBEJhCwrmpZgxeWZHphcnnrIQ",
     database="railway"
